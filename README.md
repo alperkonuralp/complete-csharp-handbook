@@ -31,25 +31,29 @@
 
 ### 📚 Table of Contents
 
-1. **Getting Started** - Introduction and development environment setup
-2. **Decision Structures and Loops** - Control flow fundamentals
-3. **Arrays and Collections** - Data structures and manipulation
-4. **Methods and Parameters** - Function creation and usage
-5. **Object-Oriented Programming** - OOP principles and implementation
-6. **Advanced Language Features** - Generics, LINQ, delegates, and events
-7. **Asynchronous and Parallel Programming** - Modern concurrency patterns
-8. **File and Data Operations** - I/O operations and data handling
-9. **Database Operations** - Entity Framework Core and data persistence
-10. **Web Applications** - ASP.NET Core development
-11. **Test Development** - Unit testing and quality assurance
-12. **Real-World Project** - Complete application development
+📖 **[View Complete English Index](english/index.md)**
+
+1. **[Getting Started](english/chapters/01-getting-started.md)** - Introduction and development environment setup
+2. **[Decision Structures and Loops](english/chapters/02-decision-structures-and-loops.md)** - Control flow fundamentals
+3. **[Arrays and Collections](english/chapters/03-arrays-and-collections.md)** - Data structures and manipulation
+4. **[Methods and Parameters](english/chapters/04-methods-and-parameters.md)** - Function creation and usage
+5. **[Object-Oriented Programming](english/chapters/05-object-oriented-programming.md)** - OOP principles and implementation
+6. **[Advanced Language Features](english/chapters/06-advanced-language-features.md)** - Generics, LINQ, delegates, and events
+7. **[Asynchronous and Parallel Programming](english/chapters/07-asynchronous-and-parallel-programming.md)** - Modern concurrency patterns
+8. **[File and Data Operations](english/chapters/08-file-and-data-operations.md)** - I/O operations and data handling
+9. **[Database Operations](english/chapters/09-database-operations.md)** - Entity Framework Core and data persistence
+10. **[Web Applications](english/chapters/10-web-applications.md)** - ASP.NET Core development
+11. **[Test Development](english/chapters/11-test-development.md)** - Unit testing and quality assurance
+12. **[Real-World Project](english/chapters/12-real-world-project.md)** - Complete application development
 
 ### 🚀 Getting Started
 
 1. Clone this repository
 2. Navigate to the `english/` folder
-3. Start with Chapter 1: Getting Started
+3. Start with [Chapter 1: Getting Started](english/chapters/01-getting-started.md)
 4. Follow the practical exercises and "Try It Yourself" sections
+
+Or you can browse all chapters from the [English Index](english/index.md)
 
 ### 📁 Project Structure
 
@@ -89,25 +93,29 @@
 
 ### 📚 İçindekiler
 
-1. **Başlangıç** - Giriş ve çalışma ortamı kurulumu
-2. **Karar Yapıları ve Döngüler** - Akış kontrolü temelleri
-3. **Diziler ve Koleksiyonlar** - Veri yapıları ve manipülasyon
-4. **Metotlar ve Parametreler** - Fonksiyon oluşturma ve kullanım
-5. **Nesne Tabanlı Programlama** - OOP prensipleri ve uygulama
-6. **İleri Dil Özellikleri** - Generics, LINQ, delegeler ve eventler
-7. **Asenkron ve Paralel Programlama** - Modern eşzamanlılık desenleri
-8. **Dosya ve Veri İşlemleri** - I/O işlemleri ve veri işleme
-9. **Veritabanı ile Çalışma** - Entity Framework Core ve veri kalıcılığı
-10. **Web Uygulamaları** - ASP.NET Core geliştirme
-11. **Test Geliştirme** - Unit testing ve kalite güvencesi
-12. **Gerçek Hayat Projesi** - Eksiksiz uygulama geliştirme
+📖 **[Tam Türkçe İçindekileri Görüntüle](turkish/index.md)**
+
+1. **[Başlangıç](turkish/bolumler/01-baslangic.md)** - Giriş ve çalışma ortamı kurulumu
+2. **[Karar Yapıları ve Döngüler](turkish/bolumler/02-karar-yapilari-ve-donguler.md)** - Akış kontrolü temelleri
+3. **[Diziler ve Koleksiyonlar](turkish/bolumler/03-diziler-ve-koleksiyonlar.md)** - Veri yapıları ve manipülasyon
+4. **[Metotlar ve Parametreler](turkish/bolumler/04-metotlar-ve-parametreler.md)** - Fonksiyon oluşturma ve kullanım
+5. **[Nesne Tabanlı Programlama](turkish/bolumler/05-nesne-tabanli-programlama.md)** - OOP prensipleri ve uygulama
+6. **[İleri Dil Özellikleri](turkish/bolumler/06-ileri-dil-ozellikleri.md)** - Generics, LINQ, delegeler ve eventler
+7. **[Asenkron ve Paralel Programlama](turkish/bolumler/07-asenkron-ve-paralel-programlama.md)** - Modern eşzamanlılık desenleri
+8. **[Dosya ve Veri İşlemleri](turkish/bolumler/08-dosya-ve-veri-islemleri.md)** - I/O işlemleri ve veri işleme
+9. **[Veritabanı ile Çalışma](turkish/bolumler/09-veritabani-ile-calisma.md)** - Entity Framework Core ve veri kalıcılığı
+10. **[Web Uygulamaları](turkish/bolumler/10-web-uygulamalari.md)** - ASP.NET Core geliştirme
+11. **[Test Geliştirme](turkish/bolumler/11-test-gelistirme.md)** - Unit testing ve kalite güvencesi
+12. **[Gerçek Hayat Projesi](turkish/bolumler/12-gercek-hayat-projesi.md)** - Eksiksiz uygulama geliştirme
 
 ### 🚀 Başlangıç
 
 1. Bu repository'yi klonlayın
 2. `turkish/` klasörüne gidin
-3. Bölüm 1: Başlangıç ile başlayın
+3. [Bölüm 1: Başlangıç](turkish/bolumler/01-baslangic.md) ile başlayın
 4. Pratik alıştırmaları ve "Sen Dene" bölümlerini takip edin
+
+Veya tüm bölümlere [Türkçe İçindekiler](turkish/index.md) sayfasından göz atabilirsiniz
 
 ### 📁 Proje Yapısı
 
@@ -157,8 +165,10 @@ Bu proje Apache License 2.0 altında lisanslanmıştır - detaylar için [LICENS
 
 ## 📞 Contact | İletişim
 
-- **Author | Yazar**: [alperkonuralp](https://github.com/alperkonuralp)
+- **Author | Yazar**: [Alper Konuralp](https://github.com/alperkonuralp)
 - **Issues | Sorunlar**: [GitHub Issues](https://github.com/alperkonuralp/Complete-CSharp-Handbook/issues)
+- **English Index | İngilizce İçindekiler**: [View All Chapters](english/index.md)
+- **Turkish Index | Türkçe İçindekiler**: [Tüm Bölümleri Görüntüle](turkish/index.md)
 
 ## ⭐ Support | Destek
 
@@ -172,17 +182,18 @@ Bu kitabı faydalı buluyorsanız, lütfen yıldız verin! ⭐
 
 | Chapter | English | Türkçe | Status |
 |---------|---------|--------|--------|
-| 1. Getting Started / Başlangıç | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 2. Decision Structures / Karar Yapıları | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 3. Arrays & Collections / Diziler | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 4. Methods / Metotlar | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 5. OOP | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 6. Advanced Features / İleri Özellikler | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 7. Async Programming / Asenkron | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 8. File Operations / Dosya İşlemleri | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 9. Database / Veritabanı | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 10. Web Applications / Web Uygulamaları | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 11. Testing / Test Geliştirme | ⏳ | ✅ | In Progress / Devam Ediyor |
-| 12. Real Project / Gerçek Proje | ⏳ | ✅ | In Progress / Devam Ediyor |
+| 0. Index / İçindekiler | [✅](english/chapters/index.md) | [✅](turkish/bolumler/index.md) | Completed / Bitti |
+| 1. Getting Started / Başlangıç | [⏳](english/chapters/01-getting-started.md) | [⏳](turkish/bolumler/01-baslangic.md) | In Progress / Devam Ediyor |
+| 2. Decision Structures / Karar Yapıları | [⏳](english/chapters/02-decision-structures-and-loops.md) | [⏳](turkish/bolumler/02-karar-yapilari-ve-donguler.md) | In Progress / Devam Ediyor |
+| 3. Arrays & Collections / Diziler | [⏳](english/chapters/03-arrays-and-collections.md) | [⏳](turkish/bolumler/03-diziler-ve-koleksiyonlar.md) | In Progress / Devam Ediyor |
+| 4. Methods / Metotlar | [⏳](english/chapters/04-methods-and-parameters.md) | [⏳](turkish/bolumler/04-metotlar-ve-parametreler.md) | In Progress / Devam Ediyor |
+| 5. OOP | [⏳](english/chapters/05-object-oriented-programming.md) | [⏳](turkish/bolumler/05-nesne-tabanli-programlama.md) | In Progress / Devam Ediyor |
+| 6. Advanced Features / İleri Özellikler | [⏳](english/chapters/06-advanced-language-features.md) | [⏳](turkish/bolumler/06-ileri-dil-ozellikleri.md) | In Progress / Devam Ediyor |
+| 7. Async Programming / Asenkron | [⏳](english/chapters/07-asynchronous-and-parallel-programming.md) | [⏳](turkish/bolumler/07-asenkron-ve-paralel-programlama.md) | In Progress / Devam Ediyor |
+| 8. File Operations / Dosya İşlemleri | [⏳](english/chapters/08-file-and-data-operations.md.md) | [⏳](turkish/bolumler/08-dosya-ve-veri-islemleri.md) | In Progress / Devam Ediyor |
+| 9. Database / Veritabanı | [⏳](english/chapters/09-database-operations.md) | [⏳](turkish/bolumler/09-veritabani-ile-calisma.md) | In Progress / Devam Ediyor |
+| 10. Web Applications / Web Uygulamaları | [⏳](english/chapters/10-web-applications.md) | [⏳](turkish/bolumler/10-web-uygulamalari.md) | In Progress / Devam Ediyor |
+| 11. Testing / Test Geliştirme | [⏳](english/chapters/11-test-development.md) | [⏳](turkish/bolumler/11-test-gelistirme.md) | In Progress / Devam Ediyor |
+| 12. Real Project / Gerçek Proje | [⏳](english/chapters/12-real-world-project.md) | [⏳](turkish/bolumler/12-gercek-hayat-projesi.md) | In Progress / Devam Ediyor |
 
 **Legend | Açıklama**: ✅ Completed / Tamamlandı | ⏳ In Progress / Devam Ediyor | ❌ Not Started / Başlanmadı
