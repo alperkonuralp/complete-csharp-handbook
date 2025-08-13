@@ -31,7 +31,7 @@
 
 ### 📚 Table of Contents
 
-📖 **[View Complete English Index](english/index.md)**
+📖 **[View Complete English Index](english/chapters/index.md)**
 
 1. **[Getting Started](english/chapters/01-getting-started.md)** - Introduction and development environment setup
 2. **[Decision Structures and Loops](english/chapters/02-decision-structures-and-loops.md)** - Control flow fundamentals
@@ -53,7 +53,7 @@
 3. Start with [Chapter 1: Getting Started](english/chapters/01-getting-started.md)
 4. Follow the practical exercises and "Try It Yourself" sections
 
-Or you can browse all chapters from the [English Index](english/index.md)
+Or you can browse all chapters from the [English Index](english/chapters/index.md)
 
 ### 📁 Project Structure
 
@@ -93,7 +93,7 @@ Or you can browse all chapters from the [English Index](english/index.md)
 
 ### 📚 İçindekiler
 
-📖 **[Tam Türkçe İçindekileri Görüntüle](turkish/index.md)**
+📖 **[Tam Türkçe İçindekileri Görüntüle](turkish/bolumler/index.md)**
 
 1. **[Başlangıç](turkish/bolumler/01-baslangic.md)** - Giriş ve çalışma ortamı kurulumu
 2. **[Karar Yapıları ve Döngüler](turkish/bolumler/02-karar-yapilari-ve-donguler.md)** - Akış kontrolü temelleri
@@ -115,7 +115,7 @@ Or you can browse all chapters from the [English Index](english/index.md)
 3. [Bölüm 1: Başlangıç](turkish/bolumler/01-baslangic.md) ile başlayın
 4. Pratik alıştırmaları ve "Sen Dene" bölümlerini takip edin
 
-Veya tüm bölümlere [Türkçe İçindekiler](turkish/index.md) sayfasından göz atabilirsiniz
+Veya tüm bölümlere [Türkçe İçindekiler](turkish/bolumler/index.md) sayfasından göz atabilirsiniz
 
 ### 📁 Proje Yapısı
 
@@ -167,8 +167,8 @@ Bu proje Apache License 2.0 altında lisanslanmıştır - detaylar için [LICENS
 
 - **Author | Yazar**: [Alper Konuralp](https://github.com/alperkonuralp)
 - **Issues | Sorunlar**: [GitHub Issues](https://github.com/alperkonuralp/Complete-CSharp-Handbook/issues)
-- **English Index | İngilizce İçindekiler**: [View All Chapters](english/index.md)
-- **Turkish Index | Türkçe İçindekiler**: [Tüm Bölümleri Görüntüle](turkish/index.md)
+- **English Index | İngilizce İçindekiler**: [View All Chapters](english/chapters/index.md)
+- **Turkish Index | Türkçe İçindekiler**: [Tüm Bölümleri Görüntüle](turkish/bolumler/index.md)
 
 ## ⭐ Support | Destek
 
