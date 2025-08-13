@@ -1,6 +1,6 @@
 # 📚 **Eksiksiz C# Kitabı**
 
-## **Bölüm 1 – Başlangıç** 📖 [Bölümü Oku](bolumler/01-baslangic.md)
+## **Bölüm 1 – Başlangıç** 📖 [Bölümü Oku](01-baslangic.md)
 
 1. **Giriş ve Çalışma Ortamı**
 
@@ -32,7 +32,7 @@
 
 ---
 
-## **Bölüm 2 – Karar Yapıları ve Döngüler** 📖 [Bölümü Oku](bolumler/02-karar-yapilari-ve-donguler.md)
+## **Bölüm 2 – Karar Yapıları ve Döngüler** 📖 [Bölümü Oku](02-karar-yapilari-ve-donguler.md)
 
 1. **Koşullu İfadeler**
 
@@ -56,7 +56,7 @@
 
 ---
 
-## **Bölüm 3 – Diziler ve Koleksiyonlar** 📖 [Bölümü Oku](bolumler/03-diziler-ve-koleksiyonlar.md)
+## **Bölüm 3 – Diziler ve Koleksiyonlar** 📖 [Bölümü Oku](03-diziler-ve-koleksiyonlar.md)
 
 1. **Diziler (Arrays)**
 
@@ -80,7 +80,7 @@
 
 ---
 
-## **Bölüm 4 – Metotlar ve Parametreler** 📖 [Bölümü Oku](bolumler/04-metotlar-ve-parametreler.md)
+## **Bölüm 4 – Metotlar ve Parametreler** 📖 [Bölümü Oku](04-metotlar-ve-parametreler.md)
 
 1. **Metot Tanımı ve Kullanımı**
 
@@ -104,7 +104,7 @@
 
 ---
 
-## **Bölüm 5 – Nesne Tabanlı Programlama (OOP)** 📖 [Bölümü Oku](bolumler/05-nesne-tabanli-programlama.md)
+## **Bölüm 5 – Nesne Tabanlı Programlama (OOP)** 📖 [Bölümü Oku](05-nesne-tabanli-programlama.md)
 
 1. **Sınıflar ve Nesneler**
 
@@ -139,7 +139,7 @@
 
 ---
 
-## **Bölüm 6 – İleri Dil Özellikleri** 📖 [Bölümü Oku](bolumler/06-ileri-dil-ozellikleri.md)
+## **Bölüm 6 – İleri Dil Özellikleri** 📖 [Bölümü Oku](06-ileri-dil-ozellikleri.md)
 
 1. **Generics (Tür Parametreli Yapılar)**
 
@@ -171,7 +171,7 @@
 
 ---
 
-## **Bölüm 7 – Asenkron ve Paralel Programlama** 📖 [Bölümü Oku](bolumler/07-asenkron-ve-paralel-programlama.md)
+## **Bölüm 7 – Asenkron ve Paralel Programlama** 📖 [Bölümü Oku](07-asenkron-ve-paralel-programlama.md)
 
 1. **Async/Await ile Asenkron İşlemler**
 
@@ -192,7 +192,7 @@
 
 ---
 
-## **Bölüm 8 – Dosya ve Veri İşlemleri** 📖 [Bölümü Oku](bolumler/08-dosya-ve-veri-islemleri.md)
+## **Bölüm 8 – Dosya ve Veri İşlemleri** 📖 [Bölümü Oku](08-dosya-ve-veri-islemleri.md)
 
 1. **Dosya Okuma/Yazma**
 
@@ -211,7 +211,7 @@
 
 ---
 
-## **Bölüm 9 – Veritabanı ile Çalışma** 📖 [Bölümü Oku](bolumler/09-veritabani-ile-calisma.md)
+## **Bölüm 9 – Veritabanı ile Çalışma** 📖 [Bölümü Oku](09-veritabani-ile-calisma.md)
 
 1. **Entity Framework Core Temelleri**
 
@@ -231,7 +231,7 @@
 
 ---
 
-## **Bölüm 10 – Web Uygulamaları** 📖 [Bölümü Oku](bolumler/10-web-uygulamalari.md)
+## **Bölüm 10 – Web Uygulamaları** 📖 [Bölümü Oku](10-web-uygulamalari.md)
 
 1. **ASP.NET Core MVC Temelleri**
 
@@ -252,7 +252,7 @@
 
 ---
 
-## **Bölüm 11 – Test Geliştirme** 📖 [Bölümü Oku](bolumler/11-test-gelistirme.md)
+## **Bölüm 11 – Test Geliştirme** 📖 [Bölümü Oku](11-test-gelistirme.md)
 
 1. **Unit Test Mantığı**
 
@@ -271,7 +271,7 @@
 
 ---
 
-## **Bölüm 12 – Gerçek Hayat Projesi** 📖 [Bölümü Oku](bolumler/12-gercek-hayat-projesi.md)
+## **Bölüm 12 – Gerçek Hayat Projesi** 📖 [Bölümü Oku](12-gercek-hayat-projesi.md)
 
 * Katmanlı mimari ile tam bir proje geliştirme
 * API + MVC + Veritabanı entegrasyonu
@@ -289,12 +289,12 @@
 
 ## 📖 **Ekler – Referans Bölümü**
 
-* **Ek A:** [C# Sürüm Özellikleri Tablosu](bolumler/ekler/ek-a-csharp-surum-ozellikleri.md)
-* **Ek B:** [Veri Tipleri ve Bellek Boyutları](bolumler/ekler/ek-b-veri-tipleri-ve-bellek-boyutlari.md) (short, int, long, float, double, decimal, bool, char, string)
-* **Ek C:** [Operatörler Tablosu](bolumler/ekler/ek-c-operatorler-tablosu.md)
-* **Ek D:** [Erişim Belirleyiciler Tablosu](bolumler/ekler/ek-d-erisim-belirleyiciler-tablosu.md) (public, private, protected, internal)
-* **Ek E:** [Koleksiyonlar Karşılaştırma Tablosu](bolumler/ekler/ek-e-koleksiyonlar-karsilastirma-tablosu.md) (List, Dictionary, Queue, Stack)
-* **Ek F:** [LINQ Metotları Referansı](bolumler/ekler/ek-f-linq-metotlari-referansi.md)
-* **Ek G:** [Async/Await Kullanım Örnekleri](bolumler/ekler/ek-g-async-await-kullanim-ornekleri.md)
-* **Ek H:** [Entity Framework Core Migration Komutları](bolumler/ekler/ek-h-entity-framework-core-migration-komutlari.md)
-* **Ek I:** [HTTP Durum Kodları Tablosu](bolumler/ekler/ek-i-http-durum-kodlari-tablosu.md)
+* **Ek A:** [C# Sürüm Özellikleri Tablosu](ekler/ek-a-csharp-surum-ozellikleri.md)
+* **Ek B:** [Veri Tipleri ve Bellek Boyutları](ekler/ek-b-veri-tipleri-ve-bellek-boyutlari.md) (short, int, long, float, double, decimal, bool, char, string)
+* **Ek C:** [Operatörler Tablosu](ekler/ek-c-operatorler-tablosu.md)
+* **Ek D:** [Erişim Belirleyiciler Tablosu](ekler/ek-d-erisim-belirleyiciler-tablosu.md) (public, private, protected, internal)
+* **Ek E:** [Koleksiyonlar Karşılaştırma Tablosu](ekler/ek-e-koleksiyonlar-karsilastirma-tablosu.md) (List, Dictionary, Queue, Stack)
+* **Ek F:** [LINQ Metotları Referansı](ekler/ek-f-linq-metotlari-referansi.md)
+* **Ek G:** [Async/Await Kullanım Örnekleri](ekler/ek-g-async-await-kullanim-ornekleri.md)
+* **Ek H:** [Entity Framework Core Migration Komutları](ekler/ek-h-entity-framework-core-migration-komutlari.md)
+* **Ek I:** [HTTP Durum Kodları Tablosu](ekler/ek-i-http-durum-kodlari-tablosu.md)

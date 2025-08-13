@@ -1,6 +1,6 @@
 # 📚 **Complete C# Handbook**
 
-## **Chapter 1 – Getting Started** 📖 [Read Chapter](chapters/01-getting-started.md)
+## **Chapter 1 – Getting Started** 📖 [Read Chapter](01-getting-started.md)
 
 1. **Introduction and Development Environment**
 
@@ -32,7 +32,7 @@
 
 ---
 
-## **Chapter 2 – Decision Structures and Loops** 📖 [Read Chapter](chapters/02-decision-structures-and-loops.md)
+## **Chapter 2 – Decision Structures and Loops** 📖 [Read Chapter](02-decision-structures-and-loops.md)
 
 1. **Conditional Statements**
 
@@ -56,7 +56,7 @@
 
 ---
 
-## **Chapter 3 – Arrays and Collections** 📖 [Read Chapter](chapters/03-arrays-and-collections.md)
+## **Chapter 3 – Arrays and Collections** 📖 [Read Chapter](03-arrays-and-collections.md)
 
 1. **Arrays**
 
@@ -80,7 +80,7 @@
 
 ---
 
-## **Chapter 4 – Methods and Parameters** 📖 [Read Chapter](chapters/04-methods-and-parameters.md)
+## **Chapter 4 – Methods and Parameters** 📖 [Read Chapter](04-methods-and-parameters.md)
 
 1. **Method Definition and Usage**
 
@@ -104,7 +104,7 @@
 
 ---
 
-## **Chapter 5 – Object-Oriented Programming (OOP)** 📖 [Read Chapter](chapters/05-object-oriented-programming.md)
+## **Chapter 5 – Object-Oriented Programming (OOP)** 📖 [Read Chapter](05-object-oriented-programming.md)
 
 1. **Classes and Objects**
 
@@ -139,7 +139,7 @@
 
 ---
 
-## **Chapter 6 – Advanced Language Features** 📖 [Read Chapter](chapters/06-advanced-language-features.md)
+## **Chapter 6 – Advanced Language Features** 📖 [Read Chapter](06-advanced-language-features.md)
 
 1. **Generics (Type-Parameterized Structures)**
 
@@ -171,7 +171,7 @@
 
 ---
 
-## **Chapter 7 – Asynchronous and Parallel Programming** 📖 [Read Chapter](chapters/07-asynchronous-and-parallel-programming.md)
+## **Chapter 7 – Asynchronous and Parallel Programming** 📖 [Read Chapter](07-asynchronous-and-parallel-programming.md)
 
 1. **Asynchronous Operations with Async/Await**
 
@@ -192,7 +192,7 @@
 
 ---
 
-## **Chapter 8 – File and Data Operations** 📖 [Read Chapter](chapters/08-file-and-data-operations.md)
+## **Chapter 8 – File and Data Operations** 📖 [Read Chapter](08-file-and-data-operations.md)
 
 1. **File Reading/Writing**
 
@@ -211,7 +211,7 @@
 
 ---
 
-## **Chapter 9 – Database Operations** 📖 [Read Chapter](chapters/09-database-operations.md)
+## **Chapter 9 – Database Operations** 📖 [Read Chapter](09-database-operations.md)
 
 1. **Entity Framework Core Fundamentals**
 
@@ -231,7 +231,7 @@
 
 ---
 
-## **Chapter 10 – Web Applications** 📖 [Read Chapter](chapters/10-web-applications.md)
+## **Chapter 10 – Web Applications** 📖 [Read Chapter](10-web-applications.md)
 
 1. **ASP.NET Core MVC Fundamentals**
 
@@ -252,7 +252,7 @@
 
 ---
 
-## **Chapter 11 – Test Development** 📖 [Read Chapter](chapters/11-test-development.md)
+## **Chapter 11 – Test Development** 📖 [Read Chapter](11-test-development.md)
 
 1. **Unit Testing Logic**
 
@@ -271,7 +271,7 @@
 
 ---
 
-## **Chapter 12 – Real-World Project** 📖 [Read Chapter](chapters/12-real-world-project.md)
+## **Chapter 12 – Real-World Project** 📖 [Read Chapter](12-real-world-project.md)
 
 * Full project development with layered architecture
 * API + MVC + Database integration
@@ -289,12 +289,12 @@
 
 ## 📖 **Appendices – Reference Section**
 
-* **Appendix A:** [C# Version Features Table](chapters/appendices/appendix-a-csharp-version-features.md)
-* **Appendix B:** [Data Types and Memory Sizes](chapters/appendices/appendix-b-data-types-and-memory-sizes.md) (short, int, long, float, double, decimal, bool, char, string)
-* **Appendix C:** [Operators Table](chapters/appendices/appendix-c-operators-table.md)
-* **Appendix D:** [Access Modifiers Table](chapters/appendices/appendix-d-access-modifiers-table.md) (public, private, protected, internal)
-* **Appendix E:** [Collections Comparison Table](chapters/appendices/appendix-e-collections-comparison-table.md) (List, Dictionary, Queue, Stack)
-* **Appendix F:** [LINQ Methods Reference](chapters/appendices/appendix-f-linq-methods-reference.md)
-* **Appendix G:** [Async/Await Usage Examples](chapters/appendices/appendix-g-async-await-usage-examples.md)
-* **Appendix H:** [Entity Framework Core Migration Commands](chapters/appendices/appendix-h-entity-framework-core-migration-commands.md)
-* **Appendix I:** [HTTP Status Codes Table](chapters/appendices/appendix-i-http-status-codes-table.md)
+* **Appendix A:** [C# Version Features Table](appendices/appendix-a-csharp-version-features.md)
+* **Appendix B:** [Data Types and Memory Sizes](appendices/appendix-b-data-types-and-memory-sizes.md) (short, int, long, float, double, decimal, bool, char, string)
+* **Appendix C:** [Operators Table](appendices/appendix-c-operators-table.md)
+* **Appendix D:** [Access Modifiers Table](appendices/appendix-d-access-modifiers-table.md) (public, private, protected, internal)
+* **Appendix E:** [Collections Comparison Table](appendices/appendix-e-collections-comparison-table.md) (List, Dictionary, Queue, Stack)
+* **Appendix F:** [LINQ Methods Reference](appendices/appendix-f-linq-methods-reference.md)
+* **Appendix G:** [Async/Await Usage Examples](appendices/appendix-g-async-await-usage-examples.md)
+* **Appendix H:** [Entity Framework Core Migration Commands](appendices/appendix-h-entity-framework-core-migration-commands.md)
+* **Appendix I:** [HTTP Status Codes Table](appendices/appendix-i-http-status-codes-table.md)
